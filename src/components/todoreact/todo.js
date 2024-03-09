@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from "react";
 import "./style.css";
+console.log("dsouvb;dsuobvouerefbieniubesuibnrbuers[biunrib r");
 
 // get the localStorage data back
 const getLocalData = () => {
